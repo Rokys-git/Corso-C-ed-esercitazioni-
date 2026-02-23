@@ -1,0 +1,6 @@
+@ApproccioClassico_HostAddress = http://localhost:5258
+
+GET {{ApproccioClassico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
