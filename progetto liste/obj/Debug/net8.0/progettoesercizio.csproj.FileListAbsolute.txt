@@ -1,0 +1,13 @@
+C:\Users\Rocco\Desktop\programma corso\progetto liste\bin\Debug\net8.0\progettoesercizio.exe
+C:\Users\Rocco\Desktop\programma corso\progetto liste\bin\Debug\net8.0\progettoesercizio.deps.json
+C:\Users\Rocco\Desktop\programma corso\progetto liste\bin\Debug\net8.0\progettoesercizio.runtimeconfig.json
+C:\Users\Rocco\Desktop\programma corso\progetto liste\bin\Debug\net8.0\progettoesercizio.dll
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.AssemblyInfoInputs.cache
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.AssemblyInfo.cs
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.csproj.CoreCompileInputs.cache
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.dll
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\refint\progettoesercizio.dll
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.pdb
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\progettoesercizio.genruntimeconfig.cache
+C:\Users\Rocco\Desktop\programma corso\progetto liste\obj\Debug\net8.0\ref\progettoesercizio.dll
