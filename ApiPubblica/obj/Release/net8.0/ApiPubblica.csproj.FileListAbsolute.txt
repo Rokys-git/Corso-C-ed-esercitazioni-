@@ -1,0 +1,47 @@
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\appsettings.Development.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\appsettings.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.staticwebassets.endpoints.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.exe
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.deps.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.runtimeconfig.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\ApiPubblica.pdb
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.csproj.AssemblyReference.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.GeneratedMSBuildEditorConfig.editorconfig
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.AssemblyInfoInputs.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.AssemblyInfo.cs
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.csproj.CoreCompileInputs.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.MvcApplicationPartsAssemblyInfo.cs
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.MvcApplicationPartsAssemblyInfo.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\rjimswa.dswa.cache.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\scopedcss\bundle\ApiPubblica.styles.css
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\staticwebassets.build.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\staticwebassets.build.json.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\staticwebassets.development.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubbl.F5176591.Up2Date
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\refint\ApiPubblica.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.pdb
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ApiPubblica.genruntimeconfig.cache
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\ref\ApiPubblica.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\bin\Release\net8.0\MiniValidation.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.csproj.AssemblyReference.cache
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.AssemblyInfoInputs.cache
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.AssemblyInfo.cs
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.csproj.CoreCompileInputs.cache
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\refint\ApiPubblica.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\ApiPubblica.pdb

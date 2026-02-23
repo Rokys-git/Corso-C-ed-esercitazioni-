@@ -1,0 +1,11 @@
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.exe
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.deps.json
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.runtimeconfig.json
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.pdb
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rocco\Desktop\programma corso\ApiPubblica\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

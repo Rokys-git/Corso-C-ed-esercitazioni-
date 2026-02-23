@@ -1,0 +1,12 @@
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.exe
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.deps.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.runtimeconfig.json
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\ApiPubblica.pdb
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\MiniValidation.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sviluppo\Corso Talent Form\nuovo corso novembre-dicembre\ApiPubblica\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
