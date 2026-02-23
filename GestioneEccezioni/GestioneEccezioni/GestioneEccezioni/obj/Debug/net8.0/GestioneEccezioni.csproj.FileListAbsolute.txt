@@ -1,0 +1,14 @@
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\bin\Debug\net8.0\GestioneEccezioni.exe
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\bin\Debug\net8.0\GestioneEccezioni.deps.json
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\bin\Debug\net8.0\GestioneEccezioni.runtimeconfig.json
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\bin\Debug\net8.0\GestioneEccezioni.dll
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\bin\Debug\net8.0\GestioneEccezioni.pdb
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.GeneratedMSBuildEditorConfig.editorconfig
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.AssemblyInfoInputs.cache
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.AssemblyInfo.cs
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.csproj.CoreCompileInputs.cache
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.dll
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\refint\GestioneEccezioni.dll
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.pdb
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\GestioneEccezioni.genruntimeconfig.cache
+G:\TalentForm\GestioneEccezioni\GestioneEccezioni\obj\Debug\net8.0\ref\GestioneEccezioni.dll

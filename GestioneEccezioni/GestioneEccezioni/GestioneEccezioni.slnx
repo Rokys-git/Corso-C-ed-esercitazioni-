@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Esercizio/Esercizio.csproj" />
+  <Project Path="GestioneEccezioni/GestioneEccezioni.csproj" />
+</Solution>
