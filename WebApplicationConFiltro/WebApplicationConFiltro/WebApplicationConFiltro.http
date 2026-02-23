@@ -1,0 +1,6 @@
+@WebApplicationConFiltro_HostAddress = http://localhost:5184
+
+GET {{WebApplicationConFiltro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
