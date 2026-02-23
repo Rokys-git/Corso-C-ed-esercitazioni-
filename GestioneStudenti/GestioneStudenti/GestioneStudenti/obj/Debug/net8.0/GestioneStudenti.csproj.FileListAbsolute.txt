@@ -1,0 +1,14 @@
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\bin\Debug\net8.0\GestioneStudenti.exe
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\bin\Debug\net8.0\GestioneStudenti.deps.json
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\bin\Debug\net8.0\GestioneStudenti.runtimeconfig.json
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\bin\Debug\net8.0\GestioneStudenti.dll
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\bin\Debug\net8.0\GestioneStudenti.pdb
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.AssemblyInfoInputs.cache
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.AssemblyInfo.cs
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.dll
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\refint\GestioneStudenti.dll
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.pdb
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\GestioneStudenti.genruntimeconfig.cache
+C:\Users\salis\Desktop\ProgettiTanlemtForm2\GestioneStudenti\GestioneStudenti\obj\Debug\net8.0\ref\GestioneStudenti.dll
